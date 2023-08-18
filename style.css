@@ -1,0 +1,20 @@
+.text1{
+    color: blue;
+    text-decoration: overline;
+    text-decoration-color: red;
+    text-transform: capitalize;
+    text-align: center;
+    border: 3px double green;
+    border-radius: 20px;
+    /* solid, dashed, dotted, double */
+   }
+   .text2{
+    color: brown;
+   }
+   .menu{
+    list-style: decimal-leading-zero;
+   }
+   body{
+    background-color: red;
+   }
+   div{}
